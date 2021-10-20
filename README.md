@@ -1,4 +1,4 @@
-![Header](asset/nhppp.png)
+![Header](asset/nhppp.jpg)
 # Hello !
 ## My name is Natan Hari Pamungkas and this is my Github profile.
 
